@@ -1,4 +1,4 @@
-package mp.ajneb97.config;
+package mm.neok;
 
 import mp.ajneb97.MiPlugin2;
 import org.bukkit.configuration.InvalidConfigurationException;
@@ -9,7 +9,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class CustomConfig {
-    private MiPlugin2 plugin;
+    private mmmmmm plugin;
     private String fileName;
     private FileConfiguration fileConfiguration = null;
     private File file = null;
